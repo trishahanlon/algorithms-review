@@ -1,6 +1,6 @@
 import sys
 
-# get hte input from the command line
+# get the input from the command line
 arr = list(map(int, sys.argv[1].split(",")))
 print('unsorted array before: ', arr)
 
